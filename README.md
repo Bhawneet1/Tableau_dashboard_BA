@@ -12,7 +12,7 @@ This repository contains a Tableau dashboard visualizing data from British Airli
 
 Below is a preview of the dashboard:
 
-![Dashboard Screenshot](pic1)
+![Dashboard Screenshot](pic1.png)
 
 ## Getting Started
 
